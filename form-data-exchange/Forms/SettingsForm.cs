@@ -2,7 +2,7 @@
 {
     public partial class SettingsForm : Form
     {
-        public static Action<MyCustomDataPackage> DataChanged;
+        public static Action<MyCustomDataPackage> DataChangedEvent;
 
         private MyCustomDataPackage m_dataPackage;
 
@@ -10,7 +10,7 @@
         {
             InitializeComponent();
 
-            MainForm.DataChanged += OnDataChanged;
+            MainForm.DataChangedEvent += OnDataChanged;
         }
 
         private void SettingsForm_Activated(object sender, EventArgs e)
@@ -23,7 +23,7 @@
         {
             m_dataPackage.Theme = comboBoxTheme.Text; // We add our selected theme to the data package so we can send it back later.
 
-            DataChanged?.Invoke(m_dataPackage); // We are triggering our event and sending our Data Package to anyone who is listening to this event.
+            DataChangedEvent?.Invoke(m_dataPackage); // We are triggering our event and sending our Data Package to anyone who is listening to this event.
 
             this.Close();
         }

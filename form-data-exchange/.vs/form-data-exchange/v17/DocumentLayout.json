@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\projects\\software\\tutorials\\form-data-exchange\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|solutionrelative:forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|solutionrelative:forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|solutionrelative:forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|solutionrelative:forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08E840C1-05B4-4CF9-AECC-7AB85EDFD647}|form-data-exchange.csproj|e:\\projects\\software\\tutorials\\form-data-exchange\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 194,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SettingsForm.cs",
               "DocumentMoniker": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\SettingsForm.cs",
               "RelativeDocumentMoniker": "Forms\\SettingsForm.cs",
               "ToolTip": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\SettingsForm.cs",
               "RelativeToolTip": "Forms\\SettingsForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T08:26:11.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthForm.cs",
               "DocumentMoniker": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\AuthForm.cs",
               "RelativeDocumentMoniker": "Forms\\AuthForm.cs",
@@ -64,40 +56,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
               "ToolTip": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\MainForm.cs",
               "RelativeToolTip": "Forms\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T08:19:54.305Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\MainForm.cs [Design]",
-              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:53:55.265Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthForm.cs [Design]",
-              "DocumentMoniker": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\AuthForm.cs",
-              "RelativeDocumentMoniker": "Forms\\AuthForm.cs",
-              "ToolTip": "E:\\projects\\software\\tutorials\\form-data-exchange\\Forms\\AuthForm.cs [Design]",
-              "RelativeToolTip": "Forms\\AuthForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:53:31.871Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

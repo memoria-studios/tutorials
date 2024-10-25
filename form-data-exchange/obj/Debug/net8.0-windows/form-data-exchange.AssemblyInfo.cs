@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("form-data-exchange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4b7d7e6c45565ccacfae209bb3e810d445bd0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("form-data-exchange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("form-data-exchange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
